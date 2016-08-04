@@ -49,6 +49,7 @@
 		6411406E16A8AD0200CB1A85 /* mtlLocalization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mtlLocalization.m; sourceTree = "<group>"; };
 		64B2EE8A15E67F71003DE672 /* NSString+Split.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Split.h"; sourceTree = "<group>"; };
 		64B2EE8B15E67F71003DE672 /* NSString+Split.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Split.m"; sourceTree = "<group>"; };
+		993AC33119AF449600B07301 /* mtl-ios-utils.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "mtl-ios-utils.podspec"; sourceTree = "<group>"; };
 		F3A0C7BA15D5908B00DACF67 /* mtlElapsedTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mtlElapsedTime.h; sourceTree = "<group>"; };
 		F3A0C7BB15D5908B00DACF67 /* mtlElapsedTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mtlElapsedTime.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +71,7 @@
 		47B9818D1511172600F9DA1E = {
 			isa = PBXGroup;
 			children = (
+				993AC33119AF449600B07301 /* mtl-ios-utils.podspec */,
 				47B981AB151117BF00F9DA1E /* Classes */,
 				47B981AE151117BF00F9DA1E /* Other Sources */,
 				47B981B0151117BF00F9DA1E /* Vendor */,
